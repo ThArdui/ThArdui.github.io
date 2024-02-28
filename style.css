@@ -1,0 +1,38 @@
+main
+{
+    min-height: 560px;
+}
+
+.footerb
+{
+    margin-top: 30px;
+}
+a
+{
+ text-decoration: none;
+}
+.lisommaire
+     {
+         list-style-type: upper-roman;
+     }
+.interlimg
+{
+    margin-bottom: 15px;
+}
+
+.interlimgtop
+{
+    margin-top: 15px;
+}
+.mentionsgaleries
+{
+    margin-top: 20px;
+}
+.titrementionslegales
+{
+    text-decoration: none;
+}
+footer
+{
+    margin-top: 40px;
+}
