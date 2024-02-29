@@ -7,9 +7,15 @@ main
 {
     margin-top: 30px;
 }
+
+
+a:focus, a:hover
+{  border: solid 4px brown;
+
+}
 a
 {
- text-decoration: none;
+    text-decoration: none;
 }
 .lisommaire
      {
