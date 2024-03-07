@@ -15,7 +15,7 @@ a:hover img, a:focus img {
 }*/
 
 
-a:focus:not(a.img), a:hover:not(a.img)
+a:focus:not(a.imglink), a:hover:not(a.imglink)
 {  border: solid 4px brown;
 }
 
