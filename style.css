@@ -1,0 +1,52 @@
+main
+{
+    min-height: 560px;
+}
+
+.footerb
+{
+    margin-top: 30px;
+}
+a:hover img, a:focus img {
+    border: solid 4px brown;
+}
+/*a:hover img, a:focus img {
+
+}*/
+
+
+a:focus:not(a.imglink), a:hover:not(a.imglink)
+{  border: solid 4px brown;
+}
+
+/*{  border: solid 4px brown;
+} */
+a
+{
+    text-decoration: none;
+}
+.lisommaire
+     {
+         list-style-type: upper-roman;
+     }
+.interlimg
+{
+    margin-bottom: 15px;
+}
+
+.interlimgtop
+{
+    margin-top: 15px;
+}
+.mentionsgaleries
+{
+    margin-top: 20px;
+}
+.titrementionslegales
+{
+    text-decoration: none;
+}
+footer
+{
+    margin-top: 40px;
+}
